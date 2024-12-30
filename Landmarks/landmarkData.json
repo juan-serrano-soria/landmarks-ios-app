@@ -1,0 +1,152 @@
+[
+    {
+        "name": "姫路城",
+        "category": "城",
+        "city": "姫路",
+        "state": "兵庫県",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 134.694,
+            "latitude": 34.839
+        },
+        "description": "姫路城は兵庫県に位置する日本の歴史的な城で、ユネスコの世界遺産に登録されています。白い外壁と複雑な防御システムが特徴です。",
+        "imageName": "himejijyo"
+    },
+    {
+        "name": "東京タワー",
+        "category": "タワー",
+        "city": "東京",
+        "state": "東京都",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 139.745,
+            "latitude": 35.658
+        },
+        "description": "東京タワーは東京のランドマークであり、展望台からの眺めが素晴らしいです。",
+        "imageName": "tokyotower"
+    },
+    {
+        "name": "厳島神社",
+        "category": "神社",
+        "city": "廿日市",
+        "state": "広島県",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 132.319,
+            "latitude": 34.295
+        },
+        "description": "厳島神社は海上に浮かぶ鳥居で有名な神社です。",
+        "imageName": "itsukushimajinja"
+    },
+    {
+        "name": "北海道大学",
+        "category": "大学",
+        "city": "札幌市",
+        "state": "北海道",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 141.350,
+            "latitude": 43.076
+        },
+        "description": "北海道大学は日本有数の研究機関で、美しいキャンパスが広がっています。",
+        "imageName": "hokkaidouniversity"
+    },
+    {
+        "name": "奈良公園",
+        "category": "公園",
+        "city": "奈良市",
+        "state": "奈良県",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 135.836,
+            "latitude": 34.683
+        },
+        "description": "奈良公園は鹿が自由に歩き回ることで知られる美しい公園です。",
+        "imageName": "narapark"
+    },
+    {
+        "name": "東京スカイツリー",
+        "category": "タワー",
+        "city": "東京",
+        "state": "東京都",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 139.810,
+            "latitude": 35.710
+        },
+        "description": "東京スカイツリーは日本で最も高いタワーで、展望台からの景色が圧巻です。",
+        "imageName": "tokyoskytree"
+    },
+    {
+        "name": "京都御所",
+        "category": "宮殿",
+        "city": "京都市",
+        "state": "京都府",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 135.760,
+            "latitude": 35.027
+        },
+        "description": "京都御所はかつての日本の皇居であり、美しい庭園があります。",
+        "imageName": "kyotogosho"
+    },
+    {
+        "name": "浅草寺",
+        "category": "寺院",
+        "city": "東京",
+        "state": "東京都",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 139.796,
+            "latitude": 35.714
+        },
+        "description": "浅草寺は東京で最も古い寺院で、多くの観光客が訪れます。",
+        "imageName": "sensouji"
+    },
+    {
+        "name": "大阪城",
+        "category": "城",
+        "city": "大阪市",
+        "state": "大阪府",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 135.525,
+            "latitude": 34.686
+        },
+        "description": "大阪城は日本の歴史的な城で、美しい公園に囲まれています。",
+        "imageName": "osakajyo"
+    },
+    {
+        "name": "平等院",
+        "category": "寺院",
+        "city": "宇治市",
+        "state": "京都府",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 135.810,
+            "latitude": 34.889
+        },
+        "description": "平等院は京都府宇治市にある歴史的な寺院で、美しい鳳凰堂があります。",
+        "imageName": "byodoin"
+    }
+]

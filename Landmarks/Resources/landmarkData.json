@@ -36,7 +36,7 @@
         "state": "広島県",
         "id": 1005,
         "isFeatured": false,
-        "isFavorite": false,
+        "isFavorite": true,
         "coordinates": {
             "longitude": 132.319,
             "latitude": 34.295

@@ -16,6 +16,17 @@ struct Landmark: Hashable, Codable, Identifiable {
     var state: String
     var description: String
     var isFavorite: Bool
+    
+    var category: Category
+    enum Category: String, CaseIterable, Codable {
+        case castles = "城"
+        case towers = "タワー"
+        case shrines = "神社"
+        case universities = "大学"
+        case parks = "公園"
+        case palaces = "宮殿"
+        case temples = "寺院"
+    }
 
     private var imageName: String
     var image: Image {

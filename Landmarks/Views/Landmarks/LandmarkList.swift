@@ -34,7 +34,7 @@ struct LandmarkList: View {
             .animation(.default, value: filteredLandmarks)
             .navigationTitle("観光名所")
         } detail: {
-            Text("S観光名所を選んでください")
+            Text("観光名所を選んでください")
         }
     }
 }

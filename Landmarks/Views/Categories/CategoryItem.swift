@@ -13,11 +13,13 @@ struct CategoryItem: View {
     var body: some View {
         VStack(alignment: .leading) {
             landmark.image
+                .renderingMode(.original)
                 .resizable()
-                    .aspectRatio(contentMode: .fill)
-                    .frame(width: 155, height: 155)
-                    .cornerRadius(5)
+                .aspectRatio(contentMode: .fill)
+                .frame(width: 155, height: 155)
+                .cornerRadius(5)
             Text(landmark.name)
+                .foregroundStyle(.primary)
                 .font(.caption)
         }
         .padding(.leading, 15)

@@ -17,6 +17,10 @@ class ModelData {
             by: { $0.category.rawValue }
         )
     }
+    
+    var featured: [Landmark] {
+        landmarks.filter { $0.isFeatured }
+    }
 }
 
 func load<T: Decodable>(_ filename: String) -> T {

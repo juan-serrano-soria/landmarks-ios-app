@@ -148,5 +148,80 @@
         },
         "description": "平等院は京都府宇治市にある歴史的な寺院で、美しい鳳凰堂があります。",
         "imageName": "byodoin"
+    },
+    {
+        "name": "六本木ヒルズ森タワー",
+        "category": "タワー",
+        "city": "東京",
+        "state": "東京都",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 139.731,
+            "latitude": 35.659
+        },
+        "description": "六本木ヒルズ森タワーは東京にある高層ビルで、展望台から東京の全景を望むことができます。",
+        "imageName": "roppongihillstower"
+    },
+    {
+        "name": "福岡タワー",
+        "category": "タワー",
+        "city": "福岡市",
+        "state": "福岡県",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 130.351,
+            "latitude": 33.593
+        },
+        "description": "福岡タワーは福岡市のランドマークで、展望台から市内の美しい眺めを楽しめます。",
+        "imageName": "fukuokatower"
+    },
+    {
+        "name": "靖国神社",
+        "category": "神社",
+        "city": "東京",
+        "state": "東京都",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 139.743,
+            "latitude": 35.694
+        },
+        "description": "靖国神社は東京にある歴史的な神社で、多くの参拝客が訪れます。",
+        "imageName": "yasukuni"
+    },
+    {
+        "name": "伏見稲荷大社",
+        "category": "神社",
+        "city": "京都市",
+        "state": "京都府",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 135.772,
+            "latitude": 34.967
+        },
+        "description": "伏見稲荷大社は京都にある有名な神社で、千本鳥居が特徴です。",
+        "imageName": "fushimiinaritaisya"
+    },
+    {
+        "name": "川崎大師",
+        "category": "神社",
+        "city": "川崎市",
+        "state": "神奈川県",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 139.720,
+            "latitude": 35.530
+        },
+        "description": "川崎大師は神奈川県にある歴史的な寺院で、厄除けのご利益があります。",
+        "imageName": "kawasakidaishi"
     }
 ]
